@@ -1,0 +1,12 @@
+/Users/ravi.raghavan/Projects/Driver_Mimicked/Driver_Mimicked/bin/Debug/net7.0/Driver_Mimicked.deps.json
+/Users/ravi.raghavan/Projects/Driver_Mimicked/Driver_Mimicked/bin/Debug/net7.0/Driver_Mimicked.dll
+/Users/ravi.raghavan/Projects/Driver_Mimicked/Driver_Mimicked/bin/Debug/net7.0/Driver_Mimicked.pdb
+/Users/ravi.raghavan/Projects/Driver_Mimicked/Driver_Mimicked/obj/Debug/net7.0/Driver_Mimicked.csproj.AssemblyReference.cache
+/Users/ravi.raghavan/Projects/Driver_Mimicked/Driver_Mimicked/obj/Debug/net7.0/Driver_Mimicked.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ravi.raghavan/Projects/Driver_Mimicked/Driver_Mimicked/obj/Debug/net7.0/Driver_Mimicked.AssemblyInfoInputs.cache
+/Users/ravi.raghavan/Projects/Driver_Mimicked/Driver_Mimicked/obj/Debug/net7.0/Driver_Mimicked.AssemblyInfo.cs
+/Users/ravi.raghavan/Projects/Driver_Mimicked/Driver_Mimicked/obj/Debug/net7.0/Driver_Mimicked.csproj.CoreCompileInputs.cache
+/Users/ravi.raghavan/Projects/Driver_Mimicked/Driver_Mimicked/obj/Debug/net7.0/Driver_Mimicked.dll
+/Users/ravi.raghavan/Projects/Driver_Mimicked/Driver_Mimicked/obj/Debug/net7.0/refint/Driver_Mimicked.dll
+/Users/ravi.raghavan/Projects/Driver_Mimicked/Driver_Mimicked/obj/Debug/net7.0/Driver_Mimicked.pdb
+/Users/ravi.raghavan/Projects/Driver_Mimicked/Driver_Mimicked/obj/Debug/net7.0/ref/Driver_Mimicked.dll

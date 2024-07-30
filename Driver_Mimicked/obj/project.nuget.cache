@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m1h+ScoQjja1iOGB12DexnF0ZZNFpG5KipGz4j1cgGSSiDshdcZ4jtlkF8VHSPs64XWKaGNm3yLF1FQZUB+q5A==",
+  "success": true,
+  "projectFilePath": "/Users/ravi.raghavan/Projects/Driver_Mimicked/Driver_Mimicked/Driver_Mimicked.csproj",
+  "expectedPackageFiles": [
+    "/Users/ravi.raghavan/.nuget/packages/mongodb.analyzer/1.4.0/mongodb.analyzer.1.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

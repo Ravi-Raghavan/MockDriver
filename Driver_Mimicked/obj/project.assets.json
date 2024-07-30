@@ -1,0 +1,100 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "MongoDB.Analyzer/1.4.0": {
+        "type": "package"
+      }
+    }
+  },
+  "libraries": {
+    "MongoDB.Analyzer/1.4.0": {
+      "sha512": "o3/f+26HZ0+Z2LXcpYVATgePwCsMunCvaeu5ZaiAjivKlGPDKvfaO+Tn66O6WM26jJt9NxmxpwjjyZnWnANL7g==",
+      "type": "package",
+      "path": "mongodb.analyzer/1.4.0",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "analyzers/dotnet/cs/Analytics.dll",
+        "analyzers/dotnet/cs/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "analyzers/dotnet/cs/MongoDB.Analyzer.dll",
+        "analyzers/dotnet/cs/Newtonsoft.Json.dll",
+        "mongodb.analyzer.1.4.0.nupkg.sha512",
+        "mongodb.analyzer.nuspec",
+        "packageIcon.png",
+        "tools/install.ps1",
+        "tools/uninstall.ps1"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "MongoDB.Analyzer >= 1.4.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/ravi.raghavan/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/ravi.raghavan/Projects/Driver_Mimicked/Driver_Mimicked/Driver_Mimicked.csproj",
+      "projectName": "Driver_Mimicked",
+      "projectPath": "/Users/ravi.raghavan/Projects/Driver_Mimicked/Driver_Mimicked/Driver_Mimicked.csproj",
+      "packagesPath": "/Users/ravi.raghavan/.nuget/packages/",
+      "outputPath": "/Users/ravi.raghavan/Projects/Driver_Mimicked/Driver_Mimicked/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/ravi.raghavan/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://www.myget.org/F/mongodb/api/v2/symbolpackage/": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "dependencies": {
+          "MongoDB.Analyzer": {
+            "target": "Package",
+            "version": "[1.4.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.316/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

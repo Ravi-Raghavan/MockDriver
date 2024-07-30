@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>MockDriver</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Ravi Raghavan</Authors>
+    <Company>MongoDB</Company>
+    <Description>A custom library that embeds MongoDB.Analyzer.</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MongoDB.Analyzer" Version="1.4.0" />
+  </ItemGroup>
+</Project>
